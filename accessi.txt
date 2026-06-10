@@ -3,4 +3,5 @@ Wed Jun 10 2026 00:00:00 GMT+0200 (Ora legale dell’Europa centrale)|17:15:30|W
 Wed Jun 10 2026 00:00:00 GMT+0200 (Ora legale dell’Europa centrale)|17:26:55|WMI-12345678-1234-5678-90AB-CDDEEFAABBCC|NON REGISTRATA|Generazione da RB v.5.3.5.xlsm
 Wed Jun 10 2026 00:00:00 GMT+0200 (Ora legale dell’Europa centrale)|17:30:44|WMI-12345678-1234-5678-90AB-CDDEEFAABBCC|17:31:12|Generazione da RB v.5.3.5.xls
 Wed Jun 10 2026 00:00:00 GMT+0200 (Ora legale dell’Europa centrale)|18:04:52|WMI-12345678-1234-5678-90AB-CDDEEFAABBCC||Generazione da RB v.5.3.5.xlsm
-Wed Jun 10 2026 00:00:00 GMT+0200 (Ora legale dell’Europa centrale)|18:05:30|WMI-12345678-1234-5678-90AB-CDDEEFAABBCC||Generazione da RB v.5.3.5.xlsm
+Wed Jun 10 2026 00:00:00 GMT+0200 (Ora legale dell’Europa centrale)|18:05:30|WMI-12345678-1234-5678-90AB-CDDEEFAABBCC||Generazione da RB v.5.3.5.xls
+10/06/2026|20:43:29|WMI-12345678-1234-5678-90AB-CDDEEFAABBCC||Generazione da RB v.5.3.5.xlsm
