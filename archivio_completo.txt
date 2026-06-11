@@ -117,11 +117,15 @@ UNIPOLSAI ASSICURAZIONI SPA;00818570012;Bologna, Via Stalingrado, 45;unipolsaias
 VIVI BANCA SPA;01650300019;Torino, Via Monte di Pietà, 24;vivibanca@legalmail.it;;
 ZURICH INSURANCE PLC;05159650963;Milano, Via Benigno Crespi, 23;zurich.insurance.plc@pec.zurich.it;;
 ###MARCATORE_INIZIO_DEBITORI###
-CIAVATTA SRL Società Agricola;03683780716;Serracapriola (FG), viale Campo Sportivo n. 16;soc.agricola_ciavatta@pec.it
-MANZARO MARCO;MNZMRC78H01I158U;San Severo (FG), Vico Zannotti n. 10;
+CIAVATTA SRL Società Agricola;03683780716;Serracapriola (FG), viale Campo Sportivo n. 16;soc.agricola_ciavatta@pec.it;;
+DC Technology S.r.l.s.;8157460729;Via T. Respa 27 Molfetta;dctechnologysrls@pec.it;WMI-E49B5BEB-D3A4-C88A-B73F-D773EF76AD34;11/06/2026 11:14:57
+MANZARO MARCO;MNZMRC78H01I158U;San Severo (FG), Vico Zannotti n. 10;;;
 ###MARCATORE_INIZIO_CREDITORI###
-HYBRIDA MARKETING SRL;15366611000;Roma, via Castel di Ieri n. 21
-BANCA POPOLARE PUGLIESE SCPA;02848590754;PARABITA (LE)
+BANCA POPOLARE PUGLIESE SCPA;02848590754;PARABITA (LE);;;
+HYBRIDA MARKETING SRL;15366611000;Roma, via Castel di Ieri n. 21;;;
+Tecnosuperfici S.r.l.;8565850727;S.P. 231 Km. 5,714;;WMI-E49B5BEB-D3A4-C88A-B73F-D773EF76AD34;11/06/2026 11:14:57
 ###MARCATORE_INIZIO_AVVOCATI###
-Cossu Silvia;;Milano, via del Lauro n. 9;silviacossu@ordineavvocatiroma.org
-CAPOBIANCO ERNESTO;;Bari, Via G. Di Vagno, 19;capobianco.ernesto@avvocatibari.legalmail.i
+CAPOBIANCO ERNESTO;;Bari, Via G. Di Vagno, 19;capobianco.ernesto@avvocatibari.legalmail.i;;
+Cossu Silvia;;Milano, via del Lauro n. 9;silviacossu@ordineavvocatiroma.org;;
+Michele Martucci;Via Carmine Gallo 14 - Bitonto;martucci.michele@avvocatibari.legalmail.it;;WMI-E49B5BEB-D3A4-C88A-B73F-D773EF76AD34;11/06/2026 11:14:57
+Michele Martucci;Via Carmine Gallo 14 - Bitonto;martucci.michele@avvocatibari.legalmail.it;;WMI-E49B5BEB-D3A4-C88A-B73F-D773EF76AD34;11/06/2026 11:15:10
