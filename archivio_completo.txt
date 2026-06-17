@@ -9,6 +9,7 @@ ANIMA SGR SPA;07507200157;Milano, Corso Garibaldi, 99;anima@pec.animasgr.it;;
 ARCA FONDI SPA;09164960966;Milano, Via Disciplini, 3;arcafondisgr@legalmail.it;;
 ARCOA SRL;01777080447;San Benedetto del Tronto (AP), Via Pizzi, 8;arcoasrl@pec.it;;
 AXA ASSICURAZIONI SPA;00902170018;Milano, Corso Sempione, 38;axaassicurazioni@pec.axa.it;;
+AZ. AGRICOLA DI PIERRO VINCENZO;DPRVCN62D14A883H;BISCEGLIE, Via Aldo Moro, 56;dprvcn62d14a883h@impresa.italia.it;WMI-E49B5BEB-D3A4-C88A-B73F-D773EF76AD34;17/06/2026 09:03:35
 BANCA AGRILEASING SPA;01349141009;Roma, Viale Pasteur, 10;banca.agrileasing@legalmail.it;;
 BANCA AKROS SPA;03064920154;Milano, Viale Eginardo, 29;bancaakros@legalmail.it;;
 BANCA ALPI MARITTIME CRED. COOP. CARRU';00171010041;Carrù (CN), Piazza Galli, 7;segreteria@pec.bam.it;;
@@ -121,8 +122,10 @@ ZURICH INSURANCE PLC;05159650963;Milano, Via Benigno Crespi, 23;zurich.insurance
 CIAVATTA SRL Società Agricola;03683780716;Serracapriola (FG), viale Campo Sportivo n. 16;soc.agricola_ciavatta@pec.it;;
 CONSORZIO PRODUZIONE LAVORO ARTIGIANO (CO.PRO.L.A.);02513990420;S.S. KM 16.771.500 MOLFETTA (BA);coprola@legalmail.it;WMI-DA9D78DE-58BD-11EC-810D-7C8AE1BE245B;11/06/2026 11:50:29
 DC Technology S.r.l.s.;8157460729;Via T. Respa 27 Molfetta;dctechnologysrls@pec.it;WMI-E49B5BEB-D3A4-C88A-B73F-D773EF76AD34;11/06/2026 11:29:27
+DI PIERRO ANTONIO;DPRNTN58M29A883K;residente in Bisceglie alla Via Isonzo n. 112, lettera B, Int. 6;-;WMI-E49B5BEB-D3A4-C88A-B73F-D773EF76AD34;17/06/2026 09:02:46
 MANZARO MARCO;MNZMRC78H01I158U;San Severo (FG), Vico Zannotti n. 10;;;
 ###MARCATORE_INIZIO_CREDITORI###
+AMCO - ASSET MANAGEMENT COMPANY S.p.A.;05828330638;Milano alla Via San Giovanni Sul Muro 9;;WMI-E49B5BEB-D3A4-C88A-B73F-D773EF76AD34;17/06/2026 09:02:46
 BANCA POPOLARE PUGLIESE SCPA;02848590754;PARABITA (LE);;;
 COMUNE DI TERRANUOVA BRACCIOLINI;00231100512;P.ZZA DELLA REPUBBLICA 16 TERRANUOVA BRACCIOLINI;;WMI-DA9D78DE-58BD-11EC-810D-7C8AE1BE245B;11/06/2026 11:50:29
 HYBRIDA MARKETING SRL;15366611000;Roma, via Castel di Ieri n. 21;;;
@@ -131,4 +134,5 @@ Tecnosuperfici S.r.l.;8565850727;S.P. 231 Km. 5,714;;WMI-E49B5BEB-D3A4-C88A-B73F
 AVV PINTO CARMELA;PIAZZA MAZZINI 22/A MONTEVARCHI (AR);carmelapinto@puntopec.it;;WMI-DA9D78DE-58BD-11EC-810D-7C8AE1BE245B;11/06/2026 11:50:29
 CAPOBIANCO ERNESTO;;Bari, Via G. Di Vagno, 19;capobianco.ernesto@avvocatibari.legalmail.i;;
 Cossu Silvia;;Milano, via del Lauro n. 9;silviacossu@ordineavvocatiroma.org;;
+LEONARDO PATRONI GRIFFI;BARI ALLA PIAZZA LUIGI DI SAVOIA 41 - A;patronigriffi.leonardo@avvocatibari.legalmail.it;;WMI-E49B5BEB-D3A4-C88A-B73F-D773EF76AD34;17/06/2026 09:02:46
 Michele Martucci;Via Carmine Gallo 14 - Bitonto;martucci.michele@avvocatibari.legalmail.it;;WMI-E49B5BEB-D3A4-C88A-B73F-D773EF76AD34;11/06/2026 11:29:27
