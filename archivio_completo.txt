@@ -132,8 +132,8 @@ COMUNE DI TERRANUOVA BRACCIOLINI;00231100512;P.ZZA DELLA REPUBBLICA 16 TERRANUOV
 HYBRIDA MARKETING SRL;15366611000;Roma, via Castel di Ieri n. 21;;;
 Tecnosuperfici S.r.l.;08565850727;S.P. 231 Km. 5,714;;Mio Ufficio;11/06/2026 11:29:27
 ###MARCATORE_INIZIO_AVVOCATI###
-Pinto Carmela;Montevarchi, Piazza MAzzini 22/A;carmelapinto@puntopec.it;Procacci;11/06/2026 11:50:29
-Capobianco Ernesto;Bari, Via G. Di Vagno, 19;capobianco.ernesto@avvocatibari.legalmail.i;;
-Cossu Silvia;Milano, via del Lauro n. 9;silviacossu@ordineavvocatiroma.org;;
-Patroni Griffi Leonardo;Bari, Piazza Luigi Di Savoia, 41/A;patronigriffi.leonardo@avvocatibari.legalmail.it;Mio Ufficio;17/06/2026 09:02:46
-Michele Martucci;Bitonto, Via Carmine Gallo, 14;martucci.michele@avvocatibari.legalmail.it;Mio Ufficio;11/06/2026 11:29:27
+Pinto Carmela;Montevarchi, Piazza MAzzini 22/A;carmelapinto@puntopec.it;;11/06/2026 11:50:29;Procacci
+Capobianco Ernesto;Bari, Via G. Di Vagno, 19;capobianco.ernesto@avvocatibari.legalmail.i;;;
+Cossu Silvia;Milano, via del Lauro n. 9;silviacossu@ordineavvocatiroma.org;;;
+Patroni Griffi Leonardo;Bari, Piazza Luigi Di Savoia, 41/A;patronigriffi.leonardo@avvocatibari.legalmail.it;;17/06/2026 09:02:46;Mio Ufficio
+Michele Martucci;Bitonto, Via Carmine Gallo, 14;martucci.michele@avvocatibari.legalmail.it;;11/06/2026 11:29:27;Mio Ufficio
