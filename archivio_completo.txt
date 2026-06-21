@@ -131,6 +131,7 @@ BANCA POPOLARE PUGLIESE SCPA;02848590754;PARABITA (LE);;;
 COMUNE DI TERRANUOVA BRACCIOLINI;00231100512;P.ZZA DELLA REPUBBLICA 16 TERRANUOVA BRACCIOLINI;;Procacci;11/06/2026 11:50:29
 HYBRIDA MARKETING SRL;15366611000;Roma, via Castel di Ieri n. 21;;;
 Tecnosuperfici S.r.l.;08565850727;S.P. 231 Km. 5,714;;Mio Ufficio;11/06/2026 11:29:27
+Tecnosuperfici S.r.l.;8565850727;S.P. 231 Km. 5,714;;WMI-12345678-1234-5678-90AB-CDDEEFAABBCC;21/06/2026 17:16:01
 ###MARCATORE_INIZIO_AVVOCATI###
 Capobianco Ernesto;Bari, Via G. Di Vagno, 19;capobianco.ernesto@avvocatibari.legalmail.i;;;
 Cossu Silvia;Milano, via del Lauro n. 9;silviacossu@ordineavvocatiroma.org;;;
