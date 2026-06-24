@@ -12,14 +12,14 @@ AXA ASSICURAZIONI SPA;00902170018;Milano, Corso Sempione, 38;axaassicurazioni@pe
 AZ. AGRICOLA DI PIERRO VINCENZO;DPRVCN62D14A883H;BISCEGLIE, Via Aldo Moro, 56;dprvcn62d14a883h@impresa.italia.it;Mio Ufficio;17/06/2026 09:03:35
 BANCA AGRILEASING SPA;01349141009;Roma, Viale Pasteur, 10;banca.agrileasing@legalmail.it;;
 BANCA AKROS SPA;03064920154;Milano, Viale Eginardo, 29;bancaakros@legalmail.it;;
-BANCA ALPI MARITTIME CRED. COOP. CARRU';00171010041;Carr˘ (CN), Piazza Galli, 7;segreteria@pec.bam.it;;
+BANCA ALPI MARITTIME CRED. COOP. CARRU';00171010041;Carr√π (CN), Piazza Galli, 7;segreteria@pec.bam.it;;
 BANCA CAMBIANO 1884 SPA;06733220485;Castelfiorentino (FI), Viale Gramsci, 34;segreteria@pec.cambiano1884.it;;
 BANCA DEL FUCINO SPA;00392360584;Roma, Via Tomacelli, 107;segreteria@pec.fucino.it;;
-BANCA DEL PIEMONTE SPA;00483860010;Torino, Via Monte di Piet‡, 7;bancadelpiemonte@legalmail.it;;
+BANCA DEL PIEMONTE SPA;00483860010;Torino, Via Monte di Piet√†, 7;bancadelpiemonte@legalmail.it;;
 BANCA DELLA VALSABBIA SCPA;00293140173;Brescia, Via Molino della Volta, 19;segreteria@pec.valsabbia.it;;
 BANCA DELL'ALTA MURGIA CREDITO COOPERATIVO;05175940724;Piazza Zanardelli n. 16 - Altamura;pec@pec.bccaltamurgia.it;;
 BANCA DESIO E DELLA BRIANZA SPA;01181770155;Desio (MB), Via Rovagnati, 1;segreteria@pec.bancodesio.it;;
-BANCA FINNAT EURAMERICA SPA;00862520581;Roma, Piazza del Ges˘, 49;banca.finnat@legalmail.it;;
+BANCA FINNAT EURAMERICA SPA;00862520581;Roma, Piazza del Ges√π, 49;banca.finnat@legalmail.it;;
 BANCA GENERALI SPA;00833310321;Trieste, Via Machiavelli, 4;direzionegenerale@pec.bancagenerali.it;;
 BANCA IFIS SPA;02505630302;Venezia Mestre, Via Bepi Colombo, 8;bancaifis@legalmail.it;;
 BANCA MEDIOLANUM SPA;02124090164;Basiglio (MI), Via Francesco Sforza;bancamediolanum@pec.mediolanum.it;;
@@ -46,7 +46,7 @@ BCC ALBEROBELLO E SAMMICHELE;00531230722;Alberobello (BA), Via Cesare Battisti, 
 BCC BASILICATA;00130610769;Laurenzana (PZ), Via S. Pellico, 4;bccbasilicata@legalmail.it;;
 BCC BRESCIA;00291410171;Brescia, Via S. Martino della Battaglia, 2;segreteria@pec.bccbrescia.it;;
 BCC BUSTO GAROLFO E BUGUGGIATE;00735390155;Busto Garolfo (MI), Via S. Domenico Savio;segreteria@pec.bccbuguggiate.it;;
-BCC CANOSA - LOCONIA Societ‡ Cooperativa;00387040728;Canosa di Puglia (BT), Via B. Spaventa,4;bcccanosa@pec.it;;
+BCC CANOSA - LOCONIA Societ√† Cooperativa;00387040728;Canosa di Puglia (BT), Via B. Spaventa,4;bcccanosa@pec.it;;
 BCC CASTELLI ROMANI E TUSCOLO;00923050589;Frascati (RM), Via de' Merli, 1;segreteria@pec.pbc-crt.it;;
 BCC COLLI ALBANI;01037281005;Genzano di Roma (RM), Via L. Sebastiani;segreteria@pec.bcccollialbani.it;;
 BCC DI MILANO;00713330158;Carugate (MI), Via Alberti, 6;segreteria@pec.bccmilano.it;;
@@ -71,9 +71,9 @@ CHEBANCA! SPA (MEDIOBANCA PREMIER);10359360152;Milano, Viale Bodio, 33;rda@pec.m
 CHIANTIBANCA CREDITO COOP.;00412800487;San Casciano (FI), Via Cassia, 149;segreteria@pec.chiantibanca.it;;
 COFIDIS SA;03665510967;Milano, Via Giovanni Spadolini, 7;cofidis@legalmail.it;;
 COMPASS BANCA SPA;00864530159;Milano, Via Caldera, 21;compass@pec.compassonline.it;;
-CREDIT AGRICOLE ITALIA SPA;02113530345;Parma, Via Universit‡, 1;segreteria@pec.credit-agricole.it;;
+CREDIT AGRICOLE ITALIA SPA;02113530345;Parma, Via Universit√†, 1;segreteria@pec.credit-agricole.it;;
 CREDITO COOPERATIVO FRIULI SC;02216020301;Udine, Via Giovanni Paolo II, 27;segreteria@pec.credifriuli.it;;
-CREDITO EMILIANO S.P.A.;01806740153;Reggio Emilia, Via Emilia a S. Pietro;credem@pec.gruppocredem.it;;
+CREDITO EMILIANO S.P.A.;00766790356;Reggio Emilia, Via Emilia a S. Pietro, 4;credem@pec.gruppocredem.it;;
 CREDITO FONDIARIO SPA (FONSPA);00395660585;Roma, Via di S. Basilio, 15;creditofondiario@legalmail.it;;
 DEUTSCHE BANK SPA;01340740156;Milano, Piazza del Calendario, 3;dbspa.ufficiopignoramenti@actaliscertmail.it;;
 EDIL.ART;02923150425;Senigallia, Strada della Bruciata, 14/1;legal@pec.edilartonine.it;Procacci;16/06/2026 14:56:37
@@ -116,29 +116,24 @@ SO.GE.L.M.A. SRL;01481370482;Scandicci, Via Ambrosoli, 73;sogelma@pec.it;;
 STUDIO IMMOBILIARE METROQUADRO S.R.L.S.;08536040721;Molfetta, Via Respa n. 29;studiomq@pec.it;;
 UNICREDIT SPA;00348170101;Milano, Piazza Gae Aulenti, 3;comunicazioni@pec.unicredit.eu;;
 UNIPOLSAI ASSICURAZIONI SPA;00818570012;Bologna, Via Stalingrado, 45;unipolsaiassicurazioni@pec.unipol.it;;
-VIVI BANCA SPA;01650300019;Torino, Via Monte di Piet‡, 24;vivibanca@legalmail.it;;
+VIVI BANCA SPA;01650300019;Torino, Via Monte di Piet√†, 24;vivibanca@legalmail.it;;
 ZURICH INSURANCE PLC;05159650963;Milano, Via Benigno Crespi, 23;zurich.insurance.plc@pec.zurich.it;;
 ###MARCATORE_INIZIO_DEBITORI###
-CIAVATTA SRL Societ‡ Agricola;03683780716;Serracapriola (FG), viale Campo Sportivo n. 16;soc.agricola_ciavatta@pec.it;;
+CIAVATTA SRL Societ√† Agricola;03683780716;Serracapriola (FG), viale Campo Sportivo n. 16;soc.agricola_ciavatta@pec.it;;
 CONSORZIO PRODUZIONE LAVORO ARTIGIANO (CO.PRO.L.A.);02513990420;S.S. KM 16.771.500 MOLFETTA (BA);coprola@legalmail.it;Procacci;11/06/2026 11:50:29
 DC Technology S.r.l.s.;8157460729;Via T. Respa 27 Molfetta;dctechnologysrls@pec.it;Mio Ufficio;11/06/2026 11:29:27
 DI PIERRO ANTONIO;DPRNTN58M29A883K;residente in Bisceglie alla Via Isonzo n. 112, lettera B, Int. 6;-;Mio Ufficio;17/06/2026 09:02:46
 DI PIERRO VINCENZO;DPRVCN62D14A883H;residente in Bisceglie alla Via Aldo Moro n. 56;-;Mio Ufficio;17/06/2026 09:06:24
 MANZARO MARCO;MNZMRC78H01I158U;San Severo (FG), Vico Zannotti n. 10;;;
-Megamark S.r.l. -  megamark@pec.it;IT02969690615;Trani (BT),  Strada Provinciale Trani-andria Km.1,050 s.n.c.;-;WMI-E49B5BEB-D3A4-C88A-B73F-D773EF76AD34;24/06/2026 12:12:15
 ###MARCATORE_INIZIO_CREDITORI###
 AMCO - ASSET MANAGEMENT COMPANY S.p.A.;05828330638;Milano alla Via San Giovanni Sul Muro 9;;Mio Ufficio;17/06/2026 09:02:46
 BANCA POPOLARE PUGLIESE SCPA;02848590754;PARABITA (LE);;;
 COMUNE DI TERRANUOVA BRACCIOLINI;00231100512;P.ZZA DELLA REPUBBLICA 16 TERRANUOVA BRACCIOLINI;;Procacci;11/06/2026 11:50:29
 HYBRIDA MARKETING SRL;15366611000;Roma, via Castel di Ieri n. 21;;;
-Logistica Pinto S.r.l.;IT04447700610;Teano (CE)† S.S. Casilina km. 178 snc†;;WMI-E49B5BEB-D3A4-C88A-B73F-D773EF76AD34;24/06/2026 12:12:15
 Tecnosuperfici S.r.l.;08565850727;S.P. 231 Km. 5,714;;Mio Ufficio;11/06/2026 11:29:27
-Tecnosuperfici S.r.l.;8565850727;S.P. 231 Km. 5,714;;WMI-12345678-1234-5678-90AB-CDDEEFAABBCC;21/06/2026 17:16:01
 ###MARCATORE_INIZIO_AVVOCATI###
+Pinto Carmela;Montevarchi, Piazza MAzzini 22/A;carmelapinto@puntopec.it;;11/06/2026 11:50:29;Procacci
 Capobianco Ernesto;Bari, Via G. Di Vagno, 19;capobianco.ernesto@avvocatibari.legalmail.i;;;
 Cossu Silvia;Milano, via del Lauro n. 9;silviacossu@ordineavvocatiroma.org;;;
-Davide Silvio D'Aloia - davidesdaloia@pec.it;Napoli Piazza Municipio 84;-;;WMI-E49B5BEB-D3A4-C88A-B73F-D773EF76AD34;24/06/2026 12:12:15
-LEONARDO PATRONI GRIFFI;BARI ALLA PIAZZA LUIGI DI SAVOIA 41 - A;patronigriffi.leonardo@avvocatibari.legalmail.it;;WMI-E49B5BEB-D3A4-C88A-B73F-D773EF76AD34;19/06/2026 09:12:48
-Michele Martucci;Bitonto, Via Carmine Gallo, 14;martucci.michele@avvocatibari.legalmail.it;;11/06/2026 11:29:27;Mio Ufficio
 Patroni Griffi Leonardo;Bari, Piazza Luigi Di Savoia, 41/A;patronigriffi.leonardo@avvocatibari.legalmail.it;;17/06/2026 09:02:46;Mio Ufficio
-Pinto Carmela;Montevarchi, Piazza MAzzini 22/A;carmelapinto@puntopec.it;;11/06/2026 11:50:29;Procacci
+Michele Martucci;Bitonto, Via Carmine Gallo, 14;martucci.michele@avvocatibari.legalmail.it;;11/06/2026 11:29:27;Mio Ufficio
