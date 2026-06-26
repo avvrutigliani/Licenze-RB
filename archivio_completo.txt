@@ -124,19 +124,21 @@ CONSORZIO PRODUZIONE LAVORO ARTIGIANO (CO.PRO.L.A.);02513990420;S.S. KM 16.771.5
 DC Technology S.r.l.s.;8157460729;Via T. Respa 27 Molfetta;dctechnologysrls@pec.it;Mio Ufficio;11/06/2026 11:29:27
 DI PIERRO ANTONIO;DPRNTN58M29A883K;residente in Bisceglie alla Via Isonzo n. 112, lettera B, Int. 6;-;Mio Ufficio;17/06/2026 09:02:46
 DI PIERRO VINCENZO;DPRVCN62D14A883H;residente in Bisceglie alla Via Aldo Moro n. 56;-;Mio Ufficio;17/06/2026 09:06:24
+GIUSEPPE ANGELOTTI;NGLGPP42B28A429O);Ruvo di Puglia alla Via Salamone n. 46;giuseppeangelotti@odcectrani.it;WMI-12345678-1234-5678-90AB-CDDEEFAABBCC;26/06/2026 16:40:50
 MANZARO MARCO;MNZMRC78H01I158U;San Severo (FG), Vico Zannotti n. 10;;;
 ooo;-;ppp;-;WMI-15C1867C-F1DD-11EB-81B8-060B056E8300;25/06/2026 13:05:51
 ###MARCATORE_INIZIO_CREDITORI###
- ...;-;,,,;;WMI-15C1867C-F1DD-11EB-81B8-060B056E8300;25/06/2026 13:05:51
+...;-;,,,;;WMI-15C1867C-F1DD-11EB-81B8-060B056E8300;25/06/2026 13:05:51
 AMCO - ASSET MANAGEMENT COMPANY S.p.A.;05828330638;Milano alla Via San Giovanni Sul Muro 9;;Mio Ufficio;17/06/2026 09:02:46
+AVVOCATO ELIO MICHELE GNOCATO;GNCLCH77C30L219X),;TORINO, VIA AMEDEO AVOGADRO N. 19;;WMI-12345678-1234-5678-90AB-CDDEEFAABBCC;26/06/2026 16:40:50
 BANCA POPOLARE PUGLIESE SCPA;02848590754;PARABITA (LE);;;
 COMUNE DI TERRANUOVA BRACCIOLINI;00231100512;P.ZZA DELLA REPUBBLICA 16 TERRANUOVA BRACCIOLINI;;Procacci;11/06/2026 11:50:29
 HYBRIDA MARKETING SRL;15366611000;Roma, via Castel di Ieri n. 21;;;
 Tecnosuperfici S.r.l.;08565850727;S.P. 231 Km. 5,714;;Mio Ufficio;11/06/2026 11:29:27
 ###MARCATORE_INIZIO_AVVOCATI###
-;;;;str;-;;WMI-15C1867C-F1DD-11EB-81B8-060B056E8300;25/06/2026 13:05:51
-Capobianco Ernesto;Bari, Via G. Di Vagno, 19;capobianco.ernesto@avvocatibari.legalmail.i;;;
-Cossu Silvia;Milano, via del Lauro n. 9;silviacossu@ordineavvocatiroma.org;;;
-Michele Martucci;Bitonto, Via Carmine Gallo, 14;martucci.michele@avvocatibari.legalmail.it;;11/06/2026 11:29:27;Mio Ufficio
-Patroni Griffi Leonardo;Bari, Piazza Luigi Di Savoia, 41/A;patronigriffi.leonardo@avvocatibari.legalmail.it;;17/06/2026 09:02:46;Mio Ufficio
-Pinto Carmela;Montevarchi, Piazza MAzzini 22/A;carmelapinto@puntopec.it;;11/06/2026 11:50:29;Procacci
+Capobianco Ernesto;Bari, Via G. Di Vagno, 19;capobianco.ernesto@avvocatibari.legalmail.i;;;;;;
+Cossu Silvia;Milano, via del Lauro n. 9;silviacossu@ordineavvocatiroma.org;;;;;;
+IN PROPRIO;COME SOPRA;eliomichelegnocato@pec.ordineavvocatitorino.it;;WMI-12345678-1234-5678-90AB-CDDEEFAABBCC;26/06/2026 16:40:50;;;
+Michele Martucci;Bitonto, Via Carmine Gallo, 14;martucci.michele@avvocatibari.legalmail.it;;11/06/2026 11:29:27;Mio Ufficio;;;
+Patroni Griffi Leonardo;Bari, Piazza Luigi Di Savoia, 41/A;patronigriffi.leonardo@avvocatibari.legalmail.it;;17/06/2026 09:02:46;Mio Ufficio;;;
+Pinto Carmela;Montevarchi, Piazza MAzzini 22/A;carmelapinto@puntopec.it;;11/06/2026 11:50:29;Procacci;;;
