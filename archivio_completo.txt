@@ -95,7 +95,7 @@ ICCREA BANCA SPA;04774051001;Roma, Via Lucrezia Romana, 41;segreteriagenerale@pe
 IGEA DIGITAL BANK SPA;01377850937;Roma, Via Di San Basilio, 15;igeabank@legalmail.it;;
 ILLIMITY BANK SPA;03192350365;Milano, Via Soperga, 9;illimity@pec.illimity.com;;
 ING BANK N.V.;11241140158;Milano, Via Viale Fulvio Testi, 250;ing.bank.italy@legalmail.it;;
-ISTITUTO NAZIONALE PREVIDENZA SOCIALE;80078750587;Roma, Via Ciro il Grande, 21;notifica.attigiudiziari.roma@postacert.imps.gov.it;;
+ISTITUTO NAZIONALE PREVIDENZA SOCIALE;80078750587;Roma, Via Ciro il Grande, 21;notifica.attigiudiziari.roma@postacert.inps.gov.it;;
 INTESA SANPAOLO S.P.A.;00799960158;Torino, Piazza San Carlo, 156;info@pec.intesasanpaolo.com;;
 INVEST BANCA SPA;03534571008;Roma, Via Sardegna, 40;investbanca@legalmail.it;;
 ISYBANK SPA;05435910962;Milano, Via Melchiorre Gioia, 22;info@pec.isybank.com;;
