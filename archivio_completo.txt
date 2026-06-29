@@ -131,6 +131,7 @@ INPS - Sede di TRANI;80078750587;;notifica.attigiudiziari.andria@postacert.inps.
 INPS - Sede di TRICASE;80078750587;;notifica.attigiudiziari.lecce@postacert.inps.gov.it;;
 INTESA SANPAOLO S.P.A.;00799960158;Torino, Piazza San Carlo, 156;info@pec.intesasanpaolo.com;;
 INVEST BANCA SPA;03534571008;Roma, Via Sardegna, 40;investbanca@legalmail.it;;
+ISTITUTO NAZIONALE PREVIDENZA SOCIALE;80078750587;Roma, Via Ciro il Grande, 21;notifica.attigiudiziari.roma@postacert.inps.gov.it;;
 ISYBANK SPA;05435910962;Milano, Via Melchiorre Gioia, 22;info@pec.isybank.com;;
 MANZARO SRL;04346820717;San Severo, via Podgora 11;manzarosrl@arubapec.it;;
 MB CREDIT SOLUTIONS SPA;01379680153;Milano, Via Soperga, 9;mbcreditsolutions@legalmail.it;;
