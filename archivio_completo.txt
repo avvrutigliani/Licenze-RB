@@ -134,6 +134,7 @@ DC Technology S.r.l.s.;8157460729;Via T. Respa 27 Molfetta;dctechnologysrls@pec.
 DI PIERRO ANTONIO;DPRNTN58M29A883K;residente in Bisceglie alla Via Isonzo n. 112, lettera B, Int. 6;-;Mio Ufficio;17/06/2026 09:02:46
 DI PIERRO VINCENZO;DPRVCN62D14A883H;residente in Bisceglie alla Via Aldo Moro n. 56;-;Mio Ufficio;17/06/2026 09:06:24
 GIUSEPPE ANGELOTTI;NGLGPP42B28A429O);Ruvo di Puglia alla Via Salamone n. 46;giuseppeangelotti@odcectrani.it;Mio UFFICIO;30/06/2026 12:02:49
+Lomolino Francesco;LMLFNC83M30L328A;via G. A. Pugliese 15, 76125 Trani (BT);-;WMI-E49B5BEB-D3A4-C88A-B73F-D773EF76AD34;02/07/2026 12:05:49
 MANZARO MARCO;MNZMRC78H01I158U;San Severo (FG), Vico Zannotti n. 10;;;
 Megamark S.r.l.;02969690615;Trani (BT),  Strada Provinciale Trani-andria Km.1,050 s.n.c.;megamark@pec.it;Mio UFFICIO;29/06/2026 11:43:38
 ###MARCATORE_INIZIO_CREDITORI###
@@ -142,6 +143,7 @@ Avv. Gnocato Elio Michele;GNCLCH77C30L219X;Torino, Via A. Avogadro 19;;Mio UFFIC
 AVVOCATO ELIO MICHELE GNOCATO;GNCLCH77C30L219X),;TORINO, VIA AMEDEO AVOGADRO N. 19;;Mio UFFICIO;30/06/2026 12:02:49
 BANCA POPOLARE PUGLIESE SCPA;02848590754;PARABITA (LE);;;
 COMUNE DI TERRANUOVA BRACCIOLINI;00231100512;P.ZZA DELLA REPUBBLICA 16 TERRANUOVA BRACCIOLINI;;Procacci;11/06/2026 11:50:29
+Condominio Al Parco Edificio 1;90002000249;via A. Diaz ai nn. 59-61, Arzignano (VI);;WMI-E49B5BEB-D3A4-C88A-B73F-D773EF76AD34;02/07/2026 12:05:49
 HYBRIDA MARKETING SRL;15366611000;Roma, via Castel di Ieri n. 21;;;
 Logistica Pinto S.r.l.;04447700610;Teano (CE)  S.S. Casilina km. 178 snc ;;Mio UFFICIO;29/06/2026 11:43:38
 Tecnosuperfici S.r.l.;08565850727;S.P. 231 Km. 5,714;;Mio Ufficio;11/06/2026 11:29:27
@@ -149,6 +151,7 @@ Tecnosuperfici S.r.l.;08565850727;S.P. 231 Km. 5,714;;Mio Ufficio;11/06/2026 11:
 Capobianco Ernesto;Bari, Via G. Di Vagno, 19;capobianco.ernesto@avvocatibari.legalmail.i;;;
 Cossu Silvia;Milano, via del Lauro n. 9;silviacossu@ordineavvocatiroma.org;;;
 Davide Silvio D'Aloia;Napoli, Piazza Municipio 84;davidesdaloia@pec.it;;Mio UFFICIO;29/06/2026 11:43:38
+Erika Bertozzi;36054 Montebello Vic. (VI), Via XXIV Maggio 33;erika.bertozzi@ordineavvocativicenza.it;;WMI-E49B5BEB-D3A4-C88A-B73F-D773EF76AD34;02/07/2026 12:05:49
 IN PROPRIO;COME SOPRA;eliomichelegnocato@pec.ordineavvocatitorino.it;;Mio UFFICIO;30/06/2026 12:02:49
 Michele Martucci;Bitonto, Via Carmine Gallo, 14;martucci.michele@avvocatibari.legalmail.it;;11/06/2026 11:29:27;Mio Ufficio
 Patroni Griffi Leonardo;Bari, Piazza Luigi Di Savoia, 41/A;patronigriffi.leonardo@avvocatibari.legalmail.it;;17/06/2026 09:02:46;Mio Ufficio
