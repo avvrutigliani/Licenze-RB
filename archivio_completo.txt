@@ -136,3 +136,4 @@ DI PIERRO VINCENZO;DPRVCN62D14A883H;residente in Bisceglie alla Via Aldo Moro n.
 GIUSEPPE ANGELOTTI;NGLGPP42B28A429O);Ruvo di Puglia alla Via Salamone n. 46;giuseppeangelotti@odcectrani.it;Mio UFFICIO;30/06/2026 12:02:49
 MANZARO MARCO;MNZMRC78H01I158U;San Severo (FG), Vico Zannotti n. 10;;;
 Megamark S.r.l.;02969690615;Trani (BT),  Strada Provinciale Trani-andria Km.1,050 s.n.c.;megamark@pec.it;Mio UFFICIO;29/06/2026 11:43:38
+TIZIO;XXXXXXXXXXXXXX;YYYYYYYYYYYYYY;DEBITORE@PEC.IT;WMI-12345678-1234-5678-90AB-CDDEEFAABBCC;04/07/2026 19:52:42
