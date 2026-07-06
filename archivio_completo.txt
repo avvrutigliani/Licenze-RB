@@ -134,6 +134,7 @@ DC Technology S.r.l.s.;8157460729;Via T. Respa 27 Molfetta;dctechnologysrls@pec.
 DI PIERRO ANTONIO;DPRNTN58M29A883K;residente in Bisceglie alla Via Isonzo n. 112, lettera B, Int. 6;-;Mio Ufficio;17/06/2026 09:02:46
 DI PIERRO VINCENZO;DPRVCN62D14A883H;residente in Bisceglie alla Via Aldo Moro n. 56;-;Mio Ufficio;17/06/2026 09:06:24
 GIUSEPPE ANGELOTTI;NGLGPP42B28A429O);Ruvo di Puglia alla Via Salamone n. 46;giuseppeangelotti@odcectrani.it;Mio UFFICIO;30/06/2026 12:02:49
+LOMOLINO FRANCESCO;LMLFNC83M30L328A;Via G. A. Pugliese 15, 76125 Trani (BT);-;WMI-12345678-1234-5678-90AB-CDDEEFAABBCC;06/07/2026 22:33:03
 MANZARO MARCO;MNZMRC78H01I158U;San Severo (FG), Vico Zannotti n. 10;;;
 Megamark S.r.l.;02969690615;Trani (BT),  Strada Provinciale Trani-andria Km.1,050 s.n.c.;megamark@pec.it;Mio UFFICIO;29/06/2026 11:43:38
 TIZIO;XXXXXXXXXXXXXX;YYYYYYYYYYYYYY;DEBITORE@PEC.IT;WMI-12345678-1234-5678-90AB-CDDEEFAABBCC;04/07/2026 19:52:42
