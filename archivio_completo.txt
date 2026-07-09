@@ -133,3 +133,4 @@ DC Technology S.r.l.s.;8157460729;Molfetta, Via T. Respa 27;dctechnologysrls@pec
 DI PIERRO ANTONIO;DPRNTN58M29A883K;Bisceglie alla Via Isonzo n. 112, lettera B, Int. 6;-;Mio Ufficio;17/06/2026 09:02:46
 DI PIERRO VINCENZO;DPRVCN62D14A883H;Bisceglie alla Via Aldo Moro n. 56;-;Mio Ufficio;17/06/2026 09:06:24
 Megamark S.r.l.;02969690615;Trani (BT),  Strada Provinciale Trani-andria Km.1,050 s.n.c.;megamark@pec.it;Mio UFFICIO;29/06/2026 11:43:38
+TIZIO;XXXXXXXXXXXXXX;YYYYYYYYYYYYYY;DEBITORE@PEC.IT;WMI-E03FF501-E0D0-5D14-CCFF-EFAD6E422260;09/07/2026 09:03:31
