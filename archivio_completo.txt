@@ -41,7 +41,6 @@ BANCO BILBAO VIZCAYA ARGENTARIA SA;06862150155;Milano, Corso Vittorio Emanuele, 
 BANCO BPM SPA;09722490969;Milano, Piazza Filippo Meda, 4;segreteria@pec.bancobpmspa.it;;
 BANCO DI LUCCA E DEL TIRRENO SPA;01736630466;Lucca, Via Fillungo, 121;segreteria@pec.bancodilucca.it;;
 BANCO DI SARDEGNA SPA;01564020904;Sassari, Viale Umberto, 36;direzionegenerale@pec.bancodisardegna.it;;
-BCC - SAN GIOVANNI ROTONDO SCARL;00149260713;San Giovanni Rotondo (FG), Viale A. Moro;segreteria@pec.bccsangiovannirotondo.it;;
 BCC ALBEROBELLO E SAMMICHELE;00531230722;Alberobello (BA), Via Cesare Battisti, 2;segreteria@pec.bccalberobello.it;;
 BCC BASILICATA;00130610769;Laurenzana (PZ), Via S. Pellico, 4;bccbasilicata@legalmail.it;;
 BCC BRESCIA;00291410171;Brescia, Via S. Martino della Battaglia, 2;segreteria@pec.bccbrescia.it;;
@@ -54,6 +53,7 @@ BCC DI MILANO;00713330158;Carugate (MI), Via Alberti, 6;segreteria@pec.bccmilano
 BCC DI NAPOLI;05007551219;Napoli, Via Cervantes, 55;segreteria@pec.bccnapoli.it;;
 BCC DI ROMA;00938361005;Roma, Viale Oceano Indiano, 13;segreteria@pec.bccroma.it;;
 BCC EMILBANCA;00518461204;Bologna, Via Trattati Comunitari, 19;emilbanca@legalmail.it;;
+BCC SAN GIOVANNI ROTONDO SCARL;00149260713;San Giovanni Rotondo (FG), Viale A. Moro;segreteria@pec.bccsangiovannirotondo.it;;
 BCC TERRA D'OTRANTO;02856000754;Carmiano (LE), Via Veglie, 50;segreteria@pec.bccterradotranto.it;;
 BCC VENETA;00213050244;Padova, Via del Risorgimento, 2;segreteria@pec.bccveneta.it;;
 BDM BANCA SPA;00254030729;Bari, Corso Cavour, 19;bdmbanca@postacert.cedacri.it;;
