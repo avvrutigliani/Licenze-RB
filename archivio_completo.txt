@@ -132,6 +132,7 @@ ZURICH INSURANCE PLC;05159650963;Milano, Via Benigno Crespi, 23;zurich.insurance
 Angelotti Giuseppe;NGLGPP42B28A429O;Ruvo di Puglia, Via Salamone 46;-;Mio UFFICIO;30/06/2026 12:10:28
 CONSORZIO PRODUZIONE LAVORO ARTIGIANO (CO.PRO.L.A.);02513990420;Molfetta, S.S. 16 Km 771,500;coprola@legalmail.it;Procacci;11/06/2026 11:50:29
 DC Technology S.r.l.s.;8157460729;Molfetta, Via T. Respa 27;dctechnologysrls@pec.it;Mio Ufficio;11/06/2026 11:29:27
+DELL'OGLIO GABRIELE GIUSEPPE;DLLGRL66C14D142R;-;-;WMI-12345678-1234-5678-90AB-CDDEEFAABBCC;27/07/2026 18:33:05
 DI PIERRO ANTONIO;DPRNTN58M29A883K;Bisceglie alla Via Isonzo n. 112, lettera B, Int. 6;-;Mio Ufficio;17/06/2026 09:02:46
 DI PIERRO VINCENZO;DPRVCN62D14A883H;Bisceglie alla Via Aldo Moro n. 56;-;Mio Ufficio;17/06/2026 09:06:24
 gfdgdfg;gdf;gdfgdfgd;x@x.it;De Pasquale - Ufficio;14/07/2026 09:30:28
