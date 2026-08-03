@@ -73,7 +73,7 @@ CHEBANCA! SPA (MEDIOBANCA PREMIER);10359360152;Milano, Viale Bodio, 33;rda@pec.m
 CHIANTIBANCA CREDITO COOP.;00412800487;San Casciano (FI), Via Cassia, 149;segreteria@pec.chiantibanca.it;;
 COFIDIS SA;03665510967;Milano, Via Giovanni Spadolini, 7;cofidis@legalmail.it;;
 COMPASS BANCA SPA;00864530159;Milano, Via Caldera, 21;compass@pec.compassonline.it;;
-CONSTRUCTA SRL;02462530722;Trani, Via F. De Bartolo, 6/C;constructasrl@arubapec.it;Mio PC CASA;08/02/2026 19:41:27
+CONSTRUCTA SRL;02462530722;Trani, Via F. De Bartolo, 6/C;constructasrl@arubapec.it;Mio PC CASA;02/08/2026 19:41:27
 CREDIT AGRICOLE ITALIA SPA;02113530345;Parma, Via Università, 1;segreteria@pec.credit-agricole.it;;
 CREDITO COOPERATIVO FRIULI SC;02216020301;Udine, Via Giovanni Paolo II, 27;segreteria@pec.credifriuli.it;;
 CREDITO EMILIANO S.P.A.;01806740153;Reggio Emilia, Via Emilia a S. Pietro, 4;credem@pec.gruppocredem.it;;
