@@ -42,6 +42,7 @@ BANCO BPM SPA;09722490969;Milano, Piazza Filippo Meda, 4;segreteria@pec.bancobpm
 BANCO DI LUCCA E DEL TIRRENO SPA;01736630466;Lucca, Via Fillungo, 121;segreteria@pec.bancodilucca.it;;
 BANCO DI SARDEGNA SPA;01564020904;Sassari, Viale Umberto, 36;direzionegenerale@pec.bancodisardegna.it;;
 BCC ALBEROBELLO E SAMMICHELE;00531230722;Alberobello (BA), Via Cesare Battisti, 2;segreteria@pec.bccalberobello.it;;
+BCC BANCA DI ANDRIA;06059120722;Viale Don Luigi Sturzo 9/11/13, Andria (BT);bancadiandria@pec.it;WMI-12345678-1234-5678-90AB-CDDEEFAABBCC;18/08/2026 17:55:24
 BCC BASILICATA;00130610769;Laurenzana (PZ), Via S. Pellico, 4;bccbasilicata@legalmail.it;;
 BCC BRESCIA;00291410171;Brescia, Via S. Martino della Battaglia, 2;segreteria@pec.bccbrescia.it;;
 BCC BUSTO GAROLFO E BUGUGGIATE;00735390155;Busto Garolfo (MI), Via S. Domenico Savio;segreteria@pec.bccbuguggiate.it;;
