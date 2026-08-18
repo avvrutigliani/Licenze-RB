@@ -117,6 +117,7 @@ MB CREDIT SOLUTIONS SPA;01379680153;Milano, Via Soperga, 9;mbcreditsolutions@leg
 MCP SRLS;04298160716;San Severo, via Podgora, 11;mcpsrls@arubapec.it;;
 MOONEY S.P.A.;06529501006;Milano, Via Privata Nino Bonnet, 6/A;mooney@pec.mooney.it;;
 N26 BANK AG;10429450967;Milano, Via Filippo Sassetti, 32;info@pec.n26.com;;
+OLINDA S.A.S.;10813760963;Via Meravigli 2, 20123 Milano;olindasas@legalmail.it;WMI-12345678-1234-5678-90AB-CDDEEFAABBCC;18/08/2026 17:58:21
 PITAGORA SPA;06385720015;Torino, Corso Stati Uniti, 35;pitagora@legalmail.it;;
 POSTE ITALIANE SPA;97103880585;Roma, Viale Europa, 190;poste@pec.posteitaliane.it;;
 POSTEPAY SPA;06874351007;Roma, Viale Europa n. 190;postepay@pec.posteitaliane.it;;
