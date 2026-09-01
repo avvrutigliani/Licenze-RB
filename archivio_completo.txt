@@ -12,14 +12,14 @@ AXA ASSICURAZIONI SPA;00902170018;Milano, Corso Sempione, 38;axaassicurazioni@pe
 AZ. AGRICOLA DI PIERRO VINCENZO;DPRVCN62D14A883H;BISCEGLIE, Via Aldo Moro, 56;dprvcn62d14a883h@impresa.italia.it;Mio Ufficio;17/06/2026 09:03:35
 BANCA AGRILEASING SPA;01349141009;Roma, Viale Pasteur, 10;banca.agrileasing@legalmail.it;;
 BANCA AKROS SPA;03064920154;Milano, Viale Eginardo, 29;bancaakros@legalmail.it;;
-BANCA ALPI MARITTIME CRED. COOP. CARRU';00171010041;Carr˘ (CN), Piazza Galli, 7;segreteria@pec.bam.it;;
+BANCA ALPI MARITTIME CRED. COOP. CARRU';00171010041;Carr√π (CN), Piazza Galli, 7;segreteria@pec.bam.it;;
 BANCA CAMBIANO 1884 SPA;06733220485;Castelfiorentino (FI), Viale Gramsci, 34;segreteria@pec.cambiano1884.it;;
 BANCA DEL FUCINO SPA;00392360584;Roma, Via Tomacelli, 107;segreteria@pec.fucino.it;;
-BANCA DEL PIEMONTE SPA;00483860010;Torino, Via Monte di Piet‡, 7;bancadelpiemonte@legalmail.it;;
-BANCA DELLA VALSABBIA SCPA;00293140173;Brescia, Via Molino della Volta, 19;segreteria@pec.valsabbia.it;;
+BANCA DEL PIEMONTE SPA;00483860010;Torino, Via Monte di Piet√†, 7;bancadelpiemonte@legalmail.it;;
 BANCA DELL'ALTA MURGIA CREDITO COOPERATIVO;05175940724;Piazza Zanardelli n. 16 - Altamura;pec@pec.bccaltamurgia.it;;
+BANCA DELLA VALSABBIA SCPA;00293140173;Brescia, Via Molino della Volta, 19;segreteria@pec.valsabbia.it;;
 BANCA DESIO E DELLA BRIANZA SPA;01181770155;Desio (MB), Via Rovagnati, 1;segreteria@pec.bancodesio.it;;
-BANCA FINNAT EURAMERICA SPA;00862520581;Roma, Piazza del Ges˘, 49;banca.finnat@legalmail.it;;
+BANCA FINNAT EURAMERICA SPA;00862520581;Roma, Piazza del Ges√π, 49;banca.finnat@legalmail.it;;
 BANCA GENERALI SPA;00833310321;Trieste, Via Machiavelli, 4;direzionegenerale@pec.bancagenerali.it;;
 BANCA IFIS SPA;02505630302;Venezia Mestre, Via Bepi Colombo, 8;bancaifis@legalmail.it;;
 BANCA MEDIOLANUM SPA;02124090164;Basiglio (MI), Via Francesco Sforza;bancamediolanum@pec.mediolanum.it;;
@@ -42,11 +42,11 @@ BANCO BPM SPA;09722490969;Milano, Piazza Filippo Meda, 4;segreteria@pec.bancobpm
 BANCO DI LUCCA E DEL TIRRENO SPA;01736630466;Lucca, Via Fillungo, 121;segreteria@pec.bancodilucca.it;;
 BANCO DI SARDEGNA SPA;01564020904;Sassari, Viale Umberto, 36;direzionegenerale@pec.bancodisardegna.it;;
 BCC ALBEROBELLO E SAMMICHELE;00531230722;Alberobello (BA), Via Cesare Battisti, 2;segreteria@pec.bccalberobello.it;;
-BCC BANCA DI ANDRIA;06059120722;Viale Don Luigi Sturzo 9/11/13, Andria (BT);bancadiandria@pec.it;WMI-12345678-1234-5678-90AB-CDDEEFAABBCC;18/08/2026 17:55:24
+BCC BANCA DI ANDRIA;06059120722;Viale Don Luigi Sturzo 9/11/13, Andria (BT);bancadiandria@pec.it;Mio PC CASA;18/08/2026 17:55:24
 BCC BASILICATA;00130610769;Laurenzana (PZ), Via S. Pellico, 4;bccbasilicata@legalmail.it;;
 BCC BRESCIA;00291410171;Brescia, Via S. Martino della Battaglia, 2;segreteria@pec.bccbrescia.it;;
 BCC BUSTO GAROLFO E BUGUGGIATE;00735390155;Busto Garolfo (MI), Via S. Domenico Savio;segreteria@pec.bccbuguggiate.it;;
-BCC CANOSA - LOCONIA Societ‡ Cooperativa;00387040728;Canosa di Puglia (BT), Via B. Spaventa,4;bcccanosa@pec.it;;
+BCC CANOSA - LOCONIA Societ√† Cooperativa;00387040728;Canosa di Puglia (BT), Via B. Spaventa,4;bcccanosa@pec.it;;
 BCC CASSANO DELLE MURGE E TOLVE SOC. COOP.;00407800721;Cassano, Via Bitetto, 2;info@pec.bcccassanomurge.it;Marannino CASA;26/07/2026 16:45:32
 BCC CASTELLI ROMANI E TUSCOLO;00923050589;Frascati (RM), Via de' Merli, 1;segreteria@pec.pbc-crt.it;;
 BCC COLLI ALBANI;01037281005;Genzano di Roma (RM), Via L. Sebastiani;segreteria@pec.bcccollialbani.it;;
@@ -74,14 +74,14 @@ CHEBANCA! SPA (MEDIOBANCA PREMIER);10359360152;Milano, Viale Bodio, 33;rda@pec.m
 CHIANTIBANCA CREDITO COOP.;00412800487;San Casciano (FI), Via Cassia, 149;segreteria@pec.chiantibanca.it;;
 COFIDIS SA;03665510967;Milano, Via Giovanni Spadolini, 7;cofidis@legalmail.it;;
 COMPASS BANCA SPA;00864530159;Milano, Via Caldera, 21;compass@pec.compassonline.it;;
-COMUNE DI ANDRIA;81001210723;Piazza Umberto I, 1, 76123 Andria (BT);protocollo@cert.comune.andria.bt.it;WMI-12345678-1234-5678-90AB-CDDEEFAABBCC;18/08/2026 17:53:48
+COMUNE DI ANDRIA;81001210723;Piazza Umberto I, 1, 76123 Andria (BT);protocollo@cert.comune.andria.bt.it;Mio PC CASA;18/08/2026 17:53:48
 CONSTRUCTA SRL;02462530722;Trani, Via F. De Bartolo, 6/C;constructasrl@arubapec.it;Mio PC CASA;02/08/2026 19:41:27
-CREDIT AGRICOLE ITALIA SPA;02113530345;Parma, Via Universit‡, 1;segreteria@pec.credit-agricole.it;;
+CREDIT AGRICOLE ITALIA SPA;02113530345;Parma, Via Universit√†, 1;segreteria@pec.credit-agricole.it;;
 CREDITO COOPERATIVO FRIULI SC;02216020301;Udine, Via Giovanni Paolo II, 27;segreteria@pec.credifriuli.it;;
 CREDITO EMILIANO S.P.A.;01806740153;Reggio Emilia, Via Emilia a S. Pietro, 4;credem@pec.gruppocredem.it;;
 CREDITO FONDIARIO SPA (FONSPA);00395660585;Roma, Via di S. Basilio, 15;creditofondiario@legalmail.it;;
-DEUTSCHE BANK SPA;01340740156;Milano, Piazza del Calendario, 3;dbspa.ufficiopignoramenti@actaliscertmail.it;;
-E.F. GROUP S.R.L.,;08319510726;Trani, Via Gramsci n. 39;efgroupsrls@pec.it;WMI-9F07B4E4-F207-5447-286B-F981A32D845B;04/08/2026 14:13:04
+DEUTSCHE BANK SPA;01340740156;Milano, Piazza del Calendario, 3;dbspa3@actaliscertymail.it;;
+E.F. GROUP S.R.L.,;08319510726;Trani, Via Gramsci n. 39;efgroupsrls@pec.it;Romanazzi;04/08/2026 14:13:04
 EDIL.ART;02923150425;Senigallia, Strada della Bruciata, 14/1;legal@pec.edilartonine.it;Procacci;16/06/2026 14:56:37
 ENASARCO;00771150588;Roma, Via Cristoforo Colombo, 422;protocollo@pec.enasarco.it;;
 ENPAM;00914411000;Roma, Piazza Vittorio Emanuele II, 78;protocollo@pec.enpam.it;;
@@ -117,7 +117,7 @@ MB CREDIT SOLUTIONS SPA;01379680153;Milano, Via Soperga, 9;mbcreditsolutions@leg
 MCP SRLS;04298160716;San Severo, via Podgora, 11;mcpsrls@arubapec.it;;
 MOONEY S.P.A.;06529501006;Milano, Via Privata Nino Bonnet, 6/A;mooney@pec.mooney.it;;
 N26 BANK AG;10429450967;Milano, Via Filippo Sassetti, 32;info@pec.n26.com;;
-OLINDA S.A.S.;10813760963;Via Meravigli 2, 20123 Milano;olindasas@legalmail.it;WMI-12345678-1234-5678-90AB-CDDEEFAABBCC;18/08/2026 17:58:21
+OLINDA S.A.S.;10813760963;Via Meravigli 2, 20123 Milano;olindasas@legalmail.it;Mio PC CASA;18/08/2026 17:58:21
 PITAGORA SPA;06385720015;Torino, Corso Stati Uniti, 35;pitagora@legalmail.it;;
 POSTE ITALIANE SPA;97103880585;Roma, Viale Europa, 190;poste@pec.posteitaliane.it;;
 POSTEPAY SPA;06874351007;Roma, Viale Europa n. 190;postepay@pec.posteitaliane.it;;
@@ -131,19 +131,18 @@ SO.GE.L.M.A. SRL;01481370482;Scandicci, Via Ambrosoli, 73;sogelma@pec.it;;
 STUDIO IMMOBILIARE METROQUADRO S.R.L.S.;08536040721;Molfetta, Via Respa n. 29;studiomq@pec.it;;
 UNICREDIT SPA;00348170101;Milano, Piazza Gae Aulenti, 3;comunicazioni@pec.unicredit.eu;;
 UNIPOLSAI ASSICURAZIONI SPA;00818570012;Bologna, Via Stalingrado, 45;unipolsaiassicurazioni@pec.unipol.it;;
-VIVI BANCA SPA;01650300019;Torino, Via Monte di Piet‡, 24;vivibanca@legalmail.it;;
+VIVI BANCA SPA;01650300019;Torino, Via Monte di Piet√†, 24;vivibanca@legalmail.it;;
 ZURICH INSURANCE PLC;05159650963;Milano, Via Benigno Crespi, 23;zurich.insurance.plc@pec.zurich.it;;
 ###MARCATORE_INIZIO_DEBITORI###
 Angelotti Giuseppe;NGLGPP42B28A429O;Ruvo di Puglia, Via Salamone 46;-;Mio UFFICIO;30/06/2026 12:10:28
-CAPURSO CIRO;CPRCRI64C07A285J;Andria alla via Vecchia Barletta n.71;capursobus@pec.it;WMI-12345678-1234-5678-90AB-CDDEEFAABBCC;18/08/2026 17:50:29
-CASSANO ANGELO;CSSSNGL84H28A662F;Andria (BT), Via Bologna 50;-;WMI-E49B5BEB-D3A4-C88A-B73F-D773EF76AD34;19/08/2026 10:02:20
+CAPURSO CIRO;CPRCRI64C07A285J;Andria alla via Vecchia Barletta n.71;capursobus@pec.it;Mio PC CASA;18/08/2026 17:50:29
+CASSANO ANGELO;CSSSNGL84H28A662F;Andria (BT), Via Bologna 50;-;Mio UFFICIO;19/08/2026 10:02:20
 CONSORZIO PRODUZIONE LAVORO ARTIGIANO (CO.PRO.L.A.);02513990420;Molfetta, S.S. 16 Km 771,500;coprola@legalmail.it;Procacci;11/06/2026 11:50:29
 DC Technology S.r.l.s.;8157460729;Molfetta, Via T. Respa 27;dctechnologysrls@pec.it;Mio Ufficio;11/06/2026 11:29:27
 DELL'OGLIO GABRIELE GIUSEPPE;DLLGRL66C14D142R;-;-;Mio PC CASA;27/07/2026 18:33:05
 DI PIERRO ANTONIO;DPRNTN58M29A883K;Bisceglie alla Via Isonzo n. 112, lettera B, Int. 6;-;Mio Ufficio;17/06/2026 09:02:46
 DI PIERRO VINCENZO;DPRVCN62D14A883H;Bisceglie alla Via Aldo Moro n. 56;-;Mio Ufficio;17/06/2026 09:06:24
-HUMANA Soc. Coop. a r.l.;6507170725;Via San Loreno, n. 40 Bisceglie (BT);humana.sociale@pec.it;WMI-12345678-1234-5678-90AB-CDDEEFAABBCC;30/08/2026 19:29:20
-MASTRAPASQUA ANTONIO;MSTNTN79L26L328U;Trani (BT), via Nicola De Roggiero n. 46;ANTONIO.MASTRAPASQUA26@PEC.IT;WMI-9F07B4E4-F207-5447-286B-F981A32D845B;04/08/2026 14:13:52
+HUMANA Soc. Coop. a r.l.;6507170725;Via San Loreno, n. 40 Bisceglie (BT);humana.sociale@pec.it;Mio PC CASA;30/08/2026 19:29:20
+MASTRAPASQUA ANTONIO;MSTNTN79L26L328U;Trani (BT), via Nicola De Roggiero n. 46;ANTONIO.MASTRAPASQUA26@PEC.IT;Romanazzi;04/08/2026 14:13:52
 Megamark S.r.l.;02969690615;Trani (BT),  Strada Provinciale Trani-andria Km.1,050 s.n.c.;megamark@pec.it;Mio UFFICIO;29/06/2026 11:43:38
 PILATO LEONARDO;PLTLRD67C30A285D;Via Francesco Mazzione n.10 - ANDRIA (BT);-;Mio PC CASA;02/08/2026 19:41:08
-SIMONE NICOLA;SMNNCL80E12A662D;Trani, via Pola 14;-;WMI-12345678-1234-5678-90AB-CDDEEFAABBCC;31/08/2026 17:18:44
