@@ -75,13 +75,13 @@ CHIANTIBANCA CREDITO COOP.;00412800487;San Casciano (FI), Via Cassia, 149;segret
 COFIDIS SA;03665510967;Milano, Via Giovanni Spadolini, 7;cofidis@legalmail.it;;
 COMPASS BANCA SPA;00864530159;Milano, Via Caldera, 21;compass@pec.compassonline.it;;
 COMUNE DI ANDRIA;81001210723;Piazza Umberto I, 1, 76123 Andria (BT);protocollo@cert.comune.andria.bt.it;Mio PC CASA;18/08/2026 17:53:48
-CONSTRUCTA SRL;02462530722;Trani, Via F. De Bartolo, 6/C;constructasrl@arubapec.it;Mio PC CASA;02/08/2026 19:41:27
+CONSTRUCTA SRL;02462530722;Trani, Via F. De Bartolo, 6/C;constructasrl@arubapec.it;Mio PC CASA;08/02/2026 19:41:27
 CREDIT AGRICOLE ITALIA SPA;02113530345;Parma, Via Università, 1;segreteria@pec.credit-agricole.it;;
 CREDITO COOPERATIVO FRIULI SC;02216020301;Udine, Via Giovanni Paolo II, 27;segreteria@pec.credifriuli.it;;
 CREDITO EMILIANO S.P.A.;01806740153;Reggio Emilia, Via Emilia a S. Pietro, 4;credem@pec.gruppocredem.it;;
 CREDITO FONDIARIO SPA (FONSPA);00395660585;Roma, Via di S. Basilio, 15;creditofondiario@legalmail.it;;
 DEUTSCHE BANK SPA;01340740156;Milano, Piazza del Calendario, 3;dbspa3@actaliscertymail.it;;
-E.F. GROUP S.R.L.,;08319510726;Trani, Via Gramsci n. 39;efgroupsrls@pec.it;Romanazzi;04/08/2026 14:13:04
+E.F. GROUP S.R.L.,;08319510726;Trani, Via Gramsci n. 39;efgroupsrls@pec.it;Romanazzi;08/04/2026 14:13:04
 EDIL.ART;02923150425;Senigallia, Strada della Bruciata, 14/1;legal@pec.edilartonine.it;Procacci;16/06/2026 14:56:37
 ENASARCO;00771150588;Roma, Via Cristoforo Colombo, 422;protocollo@pec.enasarco.it;;
 ENPAM;00914411000;Roma, Piazza Vittorio Emanuele II, 78;protocollo@pec.enpam.it;;
@@ -115,7 +115,7 @@ ISYBANK SPA;05435910962;Milano, Via Melchiorre Gioia, 22;info@pec.isybank.com;;
 MANZARO SRL;04346820717;San Severo, via Podgora 11;manzarosrl@arubapec.it;;
 MB CREDIT SOLUTIONS SPA;01379680153;Milano, Via Soperga, 9;mbcreditsolutions@legalmail.it;;
 MCP SRLS;04298160716;San Severo, via Podgora, 11;mcpsrls@arubapec.it;;
-MHARE F&B SRL IN LIQUIDAZIONE;08142120727;Via Ressia 58, Farigliano;mharefbsrl@pec-mail.it;WMI-12345678-1234-5678-90AB-CDDEEFAABBCC;02/09/2026 17:47:18
+MHARE F&B SRL IN LIQUIDAZIONE;08142120727;Via Ressia 58, Farigliano;mharefbsrl@pec-mail.it;WMI-12345678-1234-5678-90AB-CDDEEFAABBCC;09/02/2026 17:47:18
 MOONEY S.P.A.;06529501006;Milano, Via Privata Nino Bonnet, 6/A;mooney@pec.mooney.it;;
 N26 BANK AG;10429450967;Milano, Via Filippo Sassetti, 32;info@pec.n26.com;;
 OLINDA S.A.S.;10813760963;Via Meravigli 2, 20123 Milano;olindasas@legalmail.it;Mio PC CASA;18/08/2026 17:58:21
