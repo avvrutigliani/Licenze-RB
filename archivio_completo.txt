@@ -75,13 +75,13 @@ CHIANTIBANCA CREDITO COOP.;00412800487;San Casciano (FI), Via Cassia, 149;segret
 COFIDIS SA;03665510967;Milano, Via Giovanni Spadolini, 7;cofidis@legalmail.it;;
 COMPASS BANCA SPA;00864530159;Milano, Via Caldera, 21;compass@pec.compassonline.it;;
 COMUNE DI ANDRIA;81001210723;Piazza Umberto I, 1, 76123 Andria (BT);protocollo@cert.comune.andria.bt.it;Mio PC CASA;18/08/2026 17:53:48
-CONSTRUCTA SRL;02462530722;Trani, Via F. De Bartolo, 6/C;constructasrl@arubapec.it;Mio PC CASA;02/08/2026 19:41:27
+CONSTRUCTA SRL;02462530722;Trani, Via F. De Bartolo, 6/C;constructasrl@arubapec.it;Mio PC CASA;08/02/2026 19:41:27
 CREDIT AGRICOLE ITALIA SPA;02113530345;Parma, Via Università, 1;segreteria@pec.credit-agricole.it;;
 CREDITO COOPERATIVO FRIULI SC;02216020301;Udine, Via Giovanni Paolo II, 27;segreteria@pec.credifriuli.it;;
 CREDITO EMILIANO S.P.A.;01806740153;Reggio Emilia, Via Emilia a S. Pietro, 4;credem@pec.gruppocredem.it;;
 CREDITO FONDIARIO SPA (FONSPA);00395660585;Roma, Via di S. Basilio, 15;creditofondiario@legalmail.it;;
 DEUTSCHE BANK SPA;01340740156;Milano, Piazza del Calendario, 3;dbspa3@actaliscertymail.it;;
-E.F. GROUP S.R.L.,;08319510726;Trani, Via Gramsci n. 39;efgroupsrls@pec.it;Romanazzi;04/08/2026 14:13:04
+E.F. GROUP S.R.L.,;08319510726;Trani, Via Gramsci n. 39;efgroupsrls@pec.it;Romanazzi;08/04/2026 14:13:04
 EDIL.ART;02923150425;Senigallia, Strada della Bruciata, 14/1;legal@pec.edilartonine.it;Procacci;16/06/2026 14:56:37
 ENASARCO;00771150588;Roma, Via Cristoforo Colombo, 422;protocollo@pec.enasarco.it;;
 ENPAM;00914411000;Roma, Piazza Vittorio Emanuele II, 78;protocollo@pec.enpam.it;;
@@ -112,11 +112,11 @@ INPS - Sede di TARANTO;80078750587-7800;Taranto, Corso Italia, 16;notifica.attig
 INTESA SANPAOLO S.P.A.;00799960158;Torino, Piazza San Carlo, 156;info@pec.intesasanpaolo.com;;
 INVEST BANCA SPA;03534571008;Roma, Via Sardegna, 40;investbanca@legalmail.it;;
 ISYBANK SPA;05435910962;Milano, Via Melchiorre Gioia, 22;info@pec.isybank.com;;
-MALTA AIR LIMITED;10977840965;Block A - 27040 - Montalto Pavese;maltaair@legalmail.it;Mio UFFICIO;10/09/2026 09:20:46
+MALTA AIR LIMITED;10977840965;Block A - 27040 - Montalto Pavese;maltaair@legalmail.it;Mio UFFICIO;09/10/2026 09:20:46
 MANZARO SRL;04346820717;San Severo, via Podgora 11;manzarosrl@arubapec.it;;
 MB CREDIT SOLUTIONS SPA;01379680153;Milano, Via Soperga, 9;mbcreditsolutions@legalmail.it;;
 MCP SRLS;04298160716;San Severo, via Podgora, 11;mcpsrls@arubapec.it;;
-MHARE F&B SRL IN LIQUIDAZIONE;08142120727;Via Ressia 58, Farigliano;mharefbsrl@pec-mail.it;Mio PC CASA;02/09/2026 17:47:18
+MHARE F&B SRL IN LIQUIDAZIONE;08142120727;Via Ressia 58, Farigliano;mharefbsrl@pec-mail.it;Mio PC CASA;09/02/2026 17:47:18
 MOONEY S.P.A.;06529501006;Milano, Via Privata Nino Bonnet, 6/A;mooney@pec.mooney.it;;
 N26 BANK AG;10429450967;Milano, Via Filippo Sassetti, 32;info@pec.n26.com;;
 OLINDA S.A.S.;10813760963;Via Meravigli 2, 20123 Milano;olindasas@legalmail.it;Mio PC CASA;18/08/2026 17:58:21
@@ -130,6 +130,7 @@ RIVIERABANCA BCC;00236160408;Rimini, Via Marecchiese, 227;segreteria@pec.riviera
 SANTANDER CONSUMER BANK SPA;05634190010;Torino, Via Nizza, 262;santanderconsumerbank@legalmail.it;;
 SARAS SPA;00136440922;Sarroch (CA), S.S. 195 Sulcitana;saras@pec.saras.it;;
 SO.GE.L.M.A. SRL;01481370482;Scandicci, Via Ambrosoli, 73;sogelma@pec.it;;
+SOLUZIONI COSTRUZIONI SRLS;08826380720;76121 Barletta (BT), Via Ottorino Respighi n. 28;soluzionicostruzioni@pec.it;WMI-E49B5BEB-D3A4-C88A-B73F-D773EF76AD34;18/09/2026 13:23:35
 STUDIO IMMOBILIARE METROQUADRO S.R.L.S.;08536040721;Molfetta, Via Respa n. 29;studiomq@pec.it;;
 UNICREDIT SPA;00348170101;Milano, Piazza Gae Aulenti, 3;comunicazioni@pec.unicredit.eu;;
 UNIPOLSAI ASSICURAZIONI SPA;00818570012;Bologna, Via Stalingrado, 45;unipolsaiassicurazioni@pec.unipol.it;;
@@ -153,3 +154,4 @@ Megamark S.r.l.;02969690615;Trani (BT),  Strada Provinciale Trani-andria Km.1,05
 NNOIA ANTONIO;MNNNTN56A27B619M;Via Manzoni 23, Canosa di Puglia;-;De Pasquale - Casa;09/09/2026 12:45:14
 PILATO LEONARDO;PLTLRD67C30A285D;Via Francesco Mazzione n.10 - ANDRIA (BT);-;Mio PC CASA;02/08/2026 19:41:08
 SIMONE NICOLA;SMNNCL80E12A662D;Trani, via Pola 14;-;Mio PC CASA;02/09/2026 17:46:59
+Teknica Impianti s.r.l.,;08035160723;76121 Barletta (BT), Via Libertà n. 49;teknicaimpiantisrls@pec.it;WMI-E49B5BEB-D3A4-C88A-B73F-D773EF76AD34;18/09/2026 13:23:09
