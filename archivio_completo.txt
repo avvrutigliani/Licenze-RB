@@ -131,6 +131,7 @@ RIVIERABANCA BCC;00236160408;Rimini, Via Marecchiese, 227;segreteria@pec.riviera
 SANTANDER CONSUMER BANK SPA;05634190010;Torino, Via Nizza, 262;santanderconsumerbank@legalmail.it;;
 SARAS SPA;00136440922;Sarroch (CA), S.S. 195 Sulcitana;saras@pec.saras.it;;
 SO.GE.L.M.A. SRL;01481370482;Scandicci, Via Ambrosoli, 73;sogelma@pec.it;;
+SOLUZIONI COSTRUZIONI S.R.L.S.;08826380720;Via Respighi 28, Barletta;soluzionicostruzioni@pec.it;WMI-12345678-1234-5678-90AB-CDDEEFAABBCC;10/07/2026 17:30:32
 STUDIO IMMOBILIARE METROQUADRO S.R.L.S.;08536040721;Molfetta, Via Respa n. 29;studiomq@pec.it;;
 UNICREDIT SPA;00348170101;Milano, Piazza Gae Aulenti, 3;comunicazioni@pec.unicredit.eu;;
 UNIPOLSAI ASSICURAZIONI SPA;00818570012;Bologna, Via Stalingrado, 45;unipolsaiassicurazioni@pec.unipol.it;;
