@@ -75,13 +75,13 @@ CHIANTIBANCA CREDITO COOP.;00412800487;San Casciano (FI), Via Cassia, 149;segret
 COFIDIS SA;03665510967;Milano, Via Giovanni Spadolini, 7;cofidis@legalmail.it;;
 COMPASS BANCA SPA;00864530159;Milano, Via Caldera, 21;compass@pec.compassonline.it;;
 COMUNE DI ANDRIA;81001210723;Piazza Umberto I, 1, 76123 Andria (BT);protocollo@cert.comune.andria.bt.it;Mio PC CASA;18/08/2026 17:53:48
-CONSTRUCTA SRL;02462530722;Trani, Via F. De Bartolo, 6/C;constructasrl@arubapec.it;Mio PC CASA;02/08/2026 19:41:27
+CONSTRUCTA SRL;02462530722;Trani, Via F. De Bartolo, 6/C;constructasrl@arubapec.it;Mio PC CASA;08/02/2026 19:41:27
 CREDIT AGRICOLE ITALIA SPA;02113530345;Parma, Via Università, 1;segreteria@pec.credit-agricole.it;;
 CREDITO COOPERATIVO FRIULI SC;02216020301;Udine, Via Giovanni Paolo II, 27;segreteria@pec.credifriuli.it;;
 CREDITO EMILIANO S.P.A.;01806740153;Reggio Emilia, Via Emilia a S. Pietro, 4;credem@pec.gruppocredem.it;;
 CREDITO FONDIARIO SPA (FONSPA);00395660585;Roma, Via di S. Basilio, 15;creditofondiario@legalmail.it;;
 DEUTSCHE BANK SPA;01340740156;Milano, Piazza del Calendario, 3;dbspa3@actaliscertymail.it;;
-E.F. GROUP S.R.L.,;08319510726;Trani, Via Gramsci n. 39;efgroupsrls@pec.it;Romanazzi;04/08/2026 14:13:04
+E.F. GROUP S.R.L.,;08319510726;Trani, Via Gramsci n. 39;efgroupsrls@pec.it;Romanazzi;08/04/2026 14:13:04
 EDIL.ART;02923150425;Senigallia, Strada della Bruciata, 14/1;legal@pec.edilartonine.it;Procacci;16/06/2026 14:56:37
 ENASARCO;00771150588;Roma, Via Cristoforo Colombo, 422;protocollo@pec.enasarco.it;;
 ENPAM;00914411000;Roma, Piazza Vittorio Emanuele II, 78;protocollo@pec.enpam.it;;
@@ -112,11 +112,11 @@ INPS - Sede di TARANTO;80078750587-7800;Taranto, Corso Italia, 16;notifica.attig
 INTESA SANPAOLO S.P.A.;00799960158;Torino, Piazza San Carlo, 156;info@pec.intesasanpaolo.com;;
 INVEST BANCA SPA;03534571008;Roma, Via Sardegna, 40;investbanca@legalmail.it;;
 ISYBANK SPA;05435910962;Milano, Via Melchiorre Gioia, 22;info@pec.isybank.com;;
-MALTA AIR LIMITED;10977840965;Block A - 27040 - Montalto Pavese;maltaair@legalmail.it;Mio UFFICIO;10/09/2026 09:20:46
+MALTA AIR LIMITED;10977840965;Block A - 27040 - Montalto Pavese;maltaair@legalmail.it;Mio UFFICIO;09/10/2026 09:20:46
 MANZARO SRL;04346820717;San Severo, via Podgora 11;manzarosrl@arubapec.it;;
 MB CREDIT SOLUTIONS SPA;01379680153;Milano, Via Soperga, 9;mbcreditsolutions@legalmail.it;;
 MCP SRLS;04298160716;San Severo, via Podgora, 11;mcpsrls@arubapec.it;;
-MHARE F&B SRL IN LIQUIDAZIONE;08142120727;Via Ressia 58, Farigliano;mharefbsrl@pec-mail.it;Mio PC CASA;02/09/2026 17:47:18
+MHARE F&B SRL IN LIQUIDAZIONE;08142120727;Via Ressia 58, Farigliano;mharefbsrl@pec-mail.it;Mio PC CASA;09/02/2026 17:47:18
 MOONEY S.P.A.;06529501006;Milano, Via Privata Nino Bonnet, 6/A;mooney@pec.mooney.it;;
 N26 BANK AG;10429450967;Milano, Via Filippo Sassetti, 32;info@pec.n26.com;;
 OLINDA S.A.S.;10813760963;Via Meravigli 2, 20123 Milano;olindasas@legalmail.it;Mio PC CASA;18/08/2026 17:58:21
@@ -126,16 +126,16 @@ POSTEPAY SPA;06874351007;Roma, Viale Europa n. 190;postepay@pec.posteitaliane.it
 PSA BANK ITALIA;01138400010;Milano, Via Gallarate, 199;psabankitalia@legalmail.it;;
 REALE MUTUA ASSICURAZIONI;00470400013;Torino, Via Corte d'Appello, 11;realemutua@pec.realemutua.it;;
 REVOLUT BANK UAB;12372510961;Milano, Via Dante, 7;revolut.italy.pec@legalmail.it;;
-RINELLA ANNA MARIA;RNLNMR58S59A669S;Vico Fanfulla da Lodi n. 20, Barletta;;Mio PC CASA;10/07/2026 17:28:56
+RINELLA ANNA MARIA;RNLNMR58S59A669S;Vico Fanfulla da Lodi n. 20, Barletta;;Mio PC CASA;07/10/2026 17:28:56
 RIVIERABANCA BCC;00236160408;Rimini, Via Marecchiese, 227;segreteria@pec.rivierabanca.it;;
 SANTANDER CONSUMER BANK SPA;05634190010;Torino, Via Nizza, 262;santanderconsumerbank@legalmail.it;;
 SARAS SPA;00136440922;Sarroch (CA), S.S. 195 Sulcitana;saras@pec.saras.it;;
 SO.GE.L.M.A. SRL;01481370482;Scandicci, Via Ambrosoli, 73;sogelma@pec.it;;
-SOLUZIONI COSTRUZIONI S.R.L.S.;08826380720;Via Respighi 28, Barletta;soluzionicostruzioni@pec.it;Mio PC CASA;10/07/2026 17:30:32
+SOLUZIONI COSTRUZIONI S.R.L.S.;08826380720;Via Respighi 28, Barletta;soluzionicostruzioni@pec.it;Mio PC CASA;07/10/2026 17:30:32
 STUDIO IMMOBILIARE METROQUADRO S.R.L.S.;08536040721;Molfetta, Via Respa n. 29;studiomq@pec.it;;
 UNICREDIT SPA;00348170101;Milano, Piazza Gae Aulenti, 3;comunicazioni@pec.unicredit.eu;;
 UNIPOLSAI ASSICURAZIONI SPA;00818570012;Bologna, Via Stalingrado, 45;unipolsaiassicurazioni@pec.unipol.it;;
-VIVENDA S.P.A.;07864721001;Via F. Antolisei n. 25, Roma;vivendaspa@pec.it;Mio PC CASA;10/07/2026 17:27:05
+VIVENDA S.P.A.;07864721001;Via F. Antolisei n. 25, Roma;vivendaspa@pec.it;Mio PC CASA;07/10/2026 17:27:05
 VIVI BANCA SPA;01650300019;Torino, Via Monte di Pietà, 24;vivibanca@legalmail.it;;
 ZURICH INSURANCE PLC;05159650963;Milano, Via Benigno Crespi, 23;zurich.insurance.plc@pec.zurich.it;;
 ###MARCATORE_INIZIO_DEBITORI###
