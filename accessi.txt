@@ -32,3 +32,4 @@ DATA|ORA ACCESSO|HWID|ORA USCITA|FILE
 ||||
 |||
 ||||
+||||
